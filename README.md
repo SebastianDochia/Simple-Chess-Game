@@ -19,7 +19,5 @@ Implemented features:
 -The player can move the white pieces.   
 -That's it
 
-Known Bugs:  
--Heap coruption when freeing the memory of the "moves" array.  
 
  
