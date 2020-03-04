@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\seby_\source\repos\SebastianDochia\Simple-Chess-Game\TheChess\TheChess\Source.cpp(33,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\seby_\source\repos\SebastianDochia\Simple-Chess-Game\TheChess\TheChess\Source.cpp(35,6): warning C4101: 'selectedPosition': unreferenced local variable
+C:\Users\seby_\source\repos\SebastianDochia\Simple-Chess-Game\TheChess\TheChess\Source.cpp(171,19): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\seby_\source\repos\SebastianDochia\Simple-Chess-Game\TheChess\TheChess\Source.cpp(194,19): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\seby_\source\repos\SebastianDochia\Simple-Chess-Game\TheChess\TheChess\Source.cpp(178,14): warning C4101: 'e': unreferenced local variable
+C:\Users\seby_\source\repos\SebastianDochia\Simple-Chess-Game\TheChess\TheChess\Source.cpp(201,14): warning C4101: 'e': unreferenced local variable
+C:\Users\seby_\source\repos\SebastianDochia\Simple-Chess-Game\TheChess\TheChess\Source.cpp(477): warning C4715: 'selectPosition': not all control paths return a value
+C:\Users\seby_\source\repos\SebastianDochia\Simple-Chess-Game\TheChess\TheChess\Source.cpp(218): warning C4715: 'selectPiece': not all control paths return a value
+  TheChess.vcxproj -> C:\Users\seby_\source\repos\SebastianDochia\Simple-Chess-Game\TheChess\x64\Debug\TheChess.exe
